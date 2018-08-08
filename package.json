@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angrbrd/eat-da-burger.git"
+    "url": "git+https://github.com/nikolizemlin/burger.git"
   },
   "keywords": [
     "burgers",
@@ -19,9 +19,9 @@
   "author": "Anna D Derbakova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angrbrd/eat-da-burger/issues"
+    "url": "https://github.com/nikolizemlin/burger/issues"
   },
-  "homepage": "https://github.com/angrbrd/eat-da-burger#readme",
+  "homepage": "https://github.com/nikolizemlin/burger#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
