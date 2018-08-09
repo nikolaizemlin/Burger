@@ -1,34 +1,29 @@
 {
-  "name": "eat-da-burger",
+  "name": "burger",
   "version": "1.0.0",
-  "description": "Buger eating application with Node.js, Express, Handlebars, and MySQL.",
-  "main": "index.js",
+  "description": "A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars/Materialize",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "heroku": "^7.7.8",
+    "method-override": "^3.0.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nikolizemlin/burger.git"
+    "url": "git+https://github.com/nikolaizemlin/Burger.git"
   },
-  "keywords": [
-    "burgers",
-    "eating",
-    "burgerfi"
-  ],
-  "author": "Anna D Derbakova",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nikolizemlin/burger/issues"
+    "url": "https://github.com/nikolaizemlin/Burger/issues"
   },
-  "homepage": "https://github.com/nikolizemlin/burger#readme",
-  "dependencies": {
-    "body-parser": "^1.17.1",
-    "express": "^4.15.2",
-    "express-handlebars": "^3.0.0",
-    "heroku": "^7.7.8",
-    "method-override": "^2.3.7",
-    "mysql": "^2.13.0"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/nikolaizemlin/Burger#readme"
 }
