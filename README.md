@@ -1,4 +1,4 @@
-# Eat Da Burger!
+# Burger!
 A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars/Materialize
 
 ## Description
@@ -19,7 +19,7 @@ To run the application locally, first clone this repository with the following c
 	
 Next, install the application dependencies.
 
-	cd eat-da-burger
+	cd burger
 	npm install
 	
 Finally, run the node server locally.
